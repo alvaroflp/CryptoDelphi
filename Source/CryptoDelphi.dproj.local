@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/09/05 23:16:44.582,=C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/05 23:20:23.947,C:\Users\Álvaro Felipe\Documents\Códigos\Github\alvaroflp\CryptoDelphi\View\View.Main.dfm=C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/05 23:20:23.947,C:\Users\Álvaro Felipe\Documents\Códigos\Github\alvaroflp\CryptoDelphi\View\View.Main.pas=C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/05 23:20:34.919,C:\Users\Álvaro Felipe\Documents\Códigos\Github\alvaroflp\CryptoDelphi\Source\CryptoDelphi.dproj=C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/09/05 23:20:41.362,=C:\Users\Álvaro Felipe\Documents\Códigos\Github\alvaroflp\CryptoDelphi\Source\Unit1.pas</Transaction>
+    <Transaction>2023/09/05 23:20:53.272,C:\Users\Álvaro Felipe\Documents\Códigos\Github\alvaroflp\CryptoDelphi\Controller\Controller.Crypto.pas=C:\Users\Álvaro Felipe\Documents\Códigos\Github\alvaroflp\CryptoDelphi\Source\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
